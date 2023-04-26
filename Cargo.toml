@@ -1,0 +1,2 @@
+[workspace]
+members = ["migrate", "migrate_derive", "migrate_cli",]

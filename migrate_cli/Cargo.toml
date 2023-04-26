@@ -1,0 +1,13 @@
+[package]
+name = "migrate_cli"
+version = "0.1.0"
+edition = "2021"
+authors = ["disco07 <koneenok@outlook.fr>"]
+description = "Database schema migration library for postgres, mysql"
+keywords = ["database", "migration", "migrate", "postgres", "mysql"]
+categories = ["database", "migration"]
+repository = "https://github.com/disco07/migrate"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
